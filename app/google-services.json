@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "868494972741",
+    "firebase_url": "https://hashtags-4598f.firebaseio.com",
+    "project_id": "hashtags-4598f",
+    "storage_bucket": "hashtags-4598f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868494972741:android:eb8593ce9aba95b7",
+        "android_client_info": {
+          "package_name": "com.emt.hashtags"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868494972741-cjje6dbqlip1768e682a8n8v64o3uf17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaKVW8Ui9p2q815BqAQ4MYfA0srTxis9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

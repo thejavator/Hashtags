@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hashtags</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="card_username_sample">the javator</string>
+    <string name="card_date_sample">10 min ago</string>
+    <string name="card_content_sample">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500</string>
+
+</resources>
